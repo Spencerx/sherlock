@@ -1,17 +1,16 @@
 APClips
+BoardGameGeek
 BreachSta.rs Forum
-Coders Rank
-DeviantArt
-Dribbble
 GNOME VCS
 Giphy
-Gumroad
+LushStories
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
+Velomania
 Weblate
 YandexMusic
-opennet
 svidbook
