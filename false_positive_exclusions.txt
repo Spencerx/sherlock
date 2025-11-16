@@ -1,16 +1,18 @@
 APClips
 Archive.org
+DeviantArt
 GNOME VCS
 Giphy
-HackerRank
+Harvard Scholar
+Itch.io
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-opennet
+furaffinity
 phpRU
 svidbook
-xHamster
