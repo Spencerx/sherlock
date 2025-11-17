@@ -1,18 +1,18 @@
 APClips
 Archive.org
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
-Harvard Scholar
-Itch.io
+LiveJournal
+LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
-furaffinity
-phpRU
+opennet
 svidbook
