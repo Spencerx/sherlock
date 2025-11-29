@@ -1,10 +1,12 @@
 APClips
+Archive of Our Own
 Archive.org
 Coders Rank
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+LiveJournal
 LushStories
 Minecraft
 PocketStars
@@ -13,7 +15,6 @@ RocketTube
 Splice
 Spotify
 Trovo
-Venmo
 Weblate
 YandexMusic
 opennet
