@@ -1,14 +1,21 @@
 APClips
 Archive.org
 Codolio
+Cracked Forum
+GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
+OurDJTalk
 Patched
 PocketStars
+Pornhub
+Rarible
 Realmeye
 Reddit
 RocketTube
@@ -25,3 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
