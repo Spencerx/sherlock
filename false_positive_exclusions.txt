@@ -1,20 +1,16 @@
 APClips
 Archive.org
 Codolio
-Cracked Forum
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
-OurDJTalk
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,11 +21,10 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
