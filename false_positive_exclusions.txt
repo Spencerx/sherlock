@@ -9,14 +9,11 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
-Minecraft
-Motherless
+LiveJournal
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,7 +26,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
@@ -38,5 +34,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
