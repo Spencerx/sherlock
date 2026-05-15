@@ -9,9 +9,10 @@ DeviantArt
 Discord.bio
 Envato Forum
 Giphy
-Gumroad
 Hashnode
 Hubski
+LessWrong
+Minecraft
 Motherless
 Patched
 Pornhub
@@ -19,7 +20,6 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -31,6 +31,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
