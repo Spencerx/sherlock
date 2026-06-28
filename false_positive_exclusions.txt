@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,9 +16,7 @@ Houzz
 Hubski
 LessWrong
 Odysee
-Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -40,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
