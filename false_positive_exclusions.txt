@@ -1,12 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BreachSta.rs Forum
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,7 +15,9 @@ Houzz
 Hubski
 LessWrong
 Odysee
-Pornhub
+OurDJTalk
+PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
