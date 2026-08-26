@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 Cults3D
@@ -11,14 +12,19 @@ DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Fosstodon
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
+HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
