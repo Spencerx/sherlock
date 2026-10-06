@@ -37,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 Trovo
 TryHackMe
