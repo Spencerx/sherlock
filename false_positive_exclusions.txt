@@ -1,17 +1,15 @@
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
 Championat
 Chatujme.cz
 Codolio
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-GitHub
-Gumroad
+Gravatar
 HackerNews
 Hashnode
 Hubski
@@ -19,7 +17,6 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
