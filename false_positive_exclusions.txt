@@ -2,6 +2,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -12,9 +14,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LibraryThing
+Itch.io
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -25,7 +27,6 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
-Signal
 SlideShare
 Splice
 Spotify
