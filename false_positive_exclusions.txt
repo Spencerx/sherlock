@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,6 +17,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -26,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -41,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
