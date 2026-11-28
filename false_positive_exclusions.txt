@@ -15,9 +15,8 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
-OurDJTalk
+Odysee
 PCGamer
 Rarible
 Realmeye
@@ -29,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
